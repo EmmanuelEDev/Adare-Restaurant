@@ -1,0 +1,20 @@
+body{
+    border: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(./res/background-adare-restaurant.jpg);
+}
+
+#logo{
+    width: 80%;
+    height: 10vw;
+    background-color: blue;
+}
+
+#navbar{
+    width: 80%;
+    height: 10vw;
+    background-color: red;
+}
