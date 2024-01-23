@@ -42,7 +42,7 @@ body{
 #meat{
     width: 75%;
     height: 30vw;
-    background-color: green;
+    /* background-color: green; */
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -64,7 +64,11 @@ a{
     margin-right: 10%;
     margin-top: 0;
     color: #D2D9DF;
-    font-size: 18px;
+    font-size: 20px;
+}
+
+#meat a{
+    font-size: 20px;
 }
 
 #empty{
