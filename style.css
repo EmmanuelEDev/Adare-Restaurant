@@ -26,7 +26,8 @@ body{
 #navbar{
     width: 75%;
     height: 4vw;
-    background-color: red;
+    background-color: #000000;
+    opacity: 0.5;
     display: flex;
     justify-content: center;
     align-items: center;
