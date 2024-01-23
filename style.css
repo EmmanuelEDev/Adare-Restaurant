@@ -36,12 +36,25 @@ body{
 
 #navbar a{
     text-decoration: none;
+    color: #FFFFFF;
 }
 
 #meat{
     width: 75%;
     height: 30vw;
     background-color: green;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    font-size: 50px;
+}
+
+a{
+    color: #FFFFFF;
 }
 
 #empty{
