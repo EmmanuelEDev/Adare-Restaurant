@@ -50,11 +50,21 @@ body{
 }
 
 h1{
-    font-size: 50px;
+    font-size: 70px;
+    color: #FFFFFF;
+    margin-bottom: 1vw;
 }
 
 a{
     color: #FFFFFF;
+}
+
+#meat p{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 0;
+    color: #D2D9DF;
+    font-size: 18px;
 }
 
 #empty{
