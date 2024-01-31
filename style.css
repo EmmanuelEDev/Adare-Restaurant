@@ -74,11 +74,17 @@ a{
 #empty{
     width: 75%;
     height: 30vw;
-    background-color: yellow;
+    /* background-color: yellow; */
 }
 
 footer{
     width: 75%;
-    height: 10vw;
-    background-color: pink;
+    height: 3vw;
+    background-color: #000000;
+    opacity: 0.7;
+    color: #FFFFFF;
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
